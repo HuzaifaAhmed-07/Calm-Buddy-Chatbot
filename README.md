@@ -11,10 +11,14 @@ High-Performance AI: Powered by Groq's Llama-3.1-8b-instant for lightning-fast, 
 Gentle UI: A clean, calming interface built with Gradio's Soft theme.
 
 ## 🛠️ Tech Stack
-LLM: Llama 3.1 (8B) via Groq Cloud API
+### LLM: 
+Llama 3.1 (8B) via Groq Cloud API
 
-Frontend: Gradio
+### Frontend: 
+Gradio
 
-Language: Python 3.x
+### Language: 
+Python 3.x
 
-Inference: Groq API (Incredible speed & low latency)
+### Inference:
+Groq API (Incredible speed & low latency)
